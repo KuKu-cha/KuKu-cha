@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KuKu-cha
-- 👀 I’m interested in web development, data science, and problem solving
-- 🌱 I’m currently learning python, html, css, java
+- 👀 I’m interested in web development, data science, and AI/ Machine Learning
+- 🌱 I’m currently learning python, html, css, java, js
 - 💞️ I’m looking to collaborate on aspiring projects with you great individuals
 - 📫 How to reach me ... 
 
